@@ -1,0 +1,14 @@
+﻿<data>
+  <testData firstAnswer="Megismerni a tesztelés világát elméleti és gyakorlati oldalról is."
+            secondAnswer="4"
+            thirdAnswer="3,4,4,5"
+            fourthAnswer="2"
+            fifthAnswer="Pontosan olyan, mint ez a Web UI-s része volt a tárgynak."
+            sixthAnswer="8"/>
+  <testData firstAnswer="Tesztelni!"
+          secondAnswer="5"
+          thirdAnswer="5,5,5,5"
+          fourthAnswer="1"
+          fifthAnswer="Pontosan olyan, mint ez a Web UI-s része volt a tárgynak."
+          sixthAnswer="9"/>
+</data>
